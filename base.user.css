@@ -1,0 +1,11 @@
+    body {
+        font-family: "Noto Sans", "Noto Sans CJK kr";
+        line-height: 1.8;
+        font-size: 10pt;
+    }
+
+
+    /* for Tistory view */
+    blockquote p, ol li p, ul li p{
+        font-size: 10pt;
+    }
